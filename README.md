@@ -56,6 +56,16 @@ The Power BI dashboard provides five distinct analytical views:
 
 **Ratings:** Analysis of driver and customer satisfaction levels.
 
+## 📊 Dashboards
+
+| **Overall Overview** | **Revenue Analysis** |
+| :---: | :---: |
+| ![Overall](images/Overall.png) | ![Revenue](images/Revenue.png) |
+
+| **Ratings** | **Vehicle Type** | **Cancellations** |
+| :---: | :---: | :---: |
+| ![Ratings](images/Ratings.png) | ![Vehicle Type](images/Vehicle_Type.png) | ![Cancellation](images/Cancellation.png) |
+
 **🚀 How to Replicate**
 **SQL Setup:** Execute the SQL script provided in the repository to set up the database and create all views.
 
