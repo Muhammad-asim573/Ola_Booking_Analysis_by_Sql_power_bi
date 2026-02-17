@@ -63,3 +63,11 @@ The Power BI dashboard provides five distinct analytical views:
 
 **Visualization:** Open the .pbix file in Power BI Desktop to explore the interactive dashboard.
 
+**Author and Contact**
+
+**Author:** MD Asim
+
+**Email:** mdasim573@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/md-asim-56385017a
+
